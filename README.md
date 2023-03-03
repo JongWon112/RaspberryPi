@@ -100,7 +100,8 @@ except KeyboardInterrupt:
 </code>
 </pre>
 
-- 시연 영상<br>
- ![Door Lock](https://github.com/JongWon112/Arduino/blob/main/images/DoorLock.mp4) <br>
- ![Serial 통신](https://github.com/JongWon112/Arduino/blob/main/images/Serial%ED%86%B5%EC%8B%A0.mp4)
+- 시연<br>
+ ![이미지1](https://github.com/JongWon112/RaspberryPi/blob/main/images/fndImg1.jpg) <br>
+ ![이미지2](https://github.com/JongWon112/RaspberryPi/blob/main/images/fndImg2.jpg) <br>
+ ![이미지3](https://github.com/JongWon112/RaspberryPi/blob/main/images/fndImg3.jpg) <br>
  
